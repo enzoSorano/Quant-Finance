@@ -1,4 +1,4 @@
-###Disclaimer
+# Disclaimer
 The information provided in this content is for educational and informational purposes only and should not be 
 construed as financial, investment, or legal advice. While efforts have been made to ensure the accuracy of the 
 information, I make no guarantees regarding the completeness or reliability of the content. Past performance is 
